@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: piKiosk Repository
+Label: piKiosk Repository Github
+Architecture: arm64
+Description: piKiosk APT Repository

@@ -1,0 +1,29 @@
+Origin: piKiosk Repository
+Label: piKiosk Repository Github
+Suite: stable
+Codename: trixie
+Date: Wed, 24 Sep 2025 11:38:09 UTC
+Architectures: arm64 amd64
+Components: main
+Description: piKiosk APT Repository
+MD5Sum:
+ d3fddf842a2031ab187d3f0452ab4e38 1908 main/binary-arm64/Packages
+ c6ab8a22e058a9a373afc29c27492803 743 main/binary-arm64/Packages.gz
+ 35dfe3747927ef547c81ff203f3ed4f5 148 main/binary-arm64/Release
+ d3fddf842a2031ab187d3f0452ab4e38 1908 main/binary-amd64/Packages
+ c6ab8a22e058a9a373afc29c27492803 743 main/binary-amd64/Packages.gz
+ 73860c478519aae51ad3868c069160c1 148 main/binary-amd64/Release
+SHA1:
+ e15ecc30095a439a5accef7030a22220dd48b81e 1908 main/binary-arm64/Packages
+ 836b24b45b643616e0f10f415c1b7dfad7f684fb 743 main/binary-arm64/Packages.gz
+ 8e50d135a1063dc871ff14f81207ae1376da304d 148 main/binary-arm64/Release
+ e15ecc30095a439a5accef7030a22220dd48b81e 1908 main/binary-amd64/Packages
+ 836b24b45b643616e0f10f415c1b7dfad7f684fb 743 main/binary-amd64/Packages.gz
+ eb24193789c1e02b761f2c07ef8cfdd4bc749fe7 148 main/binary-amd64/Release
+SHA256:
+ 18a6d05553c84455f752193aa3dd4c6ae21d7a8c518a22748cadea5b4ecef81e 1908 main/binary-arm64/Packages
+ b53d3ab3aeb70a8dbb1e8f5c3d70be67bb603d66666f89f9ec4ba5c3fa85637e 743 main/binary-arm64/Packages.gz
+ 8ea17e8af6f77d2d2d6bb273d7bcadf30cd883762ef73216d5c6e1b7c28bc8e5 148 main/binary-arm64/Release
+ 18a6d05553c84455f752193aa3dd4c6ae21d7a8c518a22748cadea5b4ecef81e 1908 main/binary-amd64/Packages
+ b53d3ab3aeb70a8dbb1e8f5c3d70be67bb603d66666f89f9ec4ba5c3fa85637e 743 main/binary-amd64/Packages.gz
+ 040a290f4decabe8d831d7b49e0bb58abe20ebc690a431e589be484b7465e7fb 148 main/binary-amd64/Release

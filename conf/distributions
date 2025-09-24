@@ -1,0 +1,7 @@
+Origin: piKiosk Repository
+Label: piKiosk Repository Github
+Suite: stable
+Codename: trixie
+Architectures: arm64 amd64
+Components: main
+Description: piKiosk APT Repository
