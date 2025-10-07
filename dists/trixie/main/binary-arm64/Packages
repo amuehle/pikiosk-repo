@@ -3,14 +3,14 @@ Version: 1.0.0
 Architecture: all
 Essential: no
 Maintainer: DT <DT@example.org>
-Installed-Size: 7154
+Installed-Size: 4862
 Depends: python3, python3-pyside2.qtcore, python3-pyside2.qtqml, python3-pyside2.qtwidgets, python3-pyside2.qtwebengine, python3-networkmanager, python3-flask, python3-bcrypt, python3-cheroot, python3-asgiref, python3-netifaces, python3-psutil, python3-gi, python3-xlib, python3-jwt, python3-pil, python3-holidays, network-manager-openvpn, qml-module-qtgraphicaleffects, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-virtualkeyboard, qml-module-qtquick2, qml-module-qtwebview, qml-module-qtquick-layouts, qtvirtualkeyboard-plugin, qml-module-qt-labs-folderlistmodel, hunspell-nl, hunspell-ar, hunspell-be, hunspell-bo, hunspell-br, hunspell-ca, hunspell-ko, hunspell-dz, hunspell-eu, hunspell-fr, hunspell-kk, hunspell-lv, hunspell-ml, hunspell-de-at, hunspell-de-ch, hunspell-de-de, hunspell-af, hunspell-an, hunspell-bg, hunspell-bn, hunspell-bs, hunspell-cs, hunspell-da, hunspell-el, hunspell-en-gb, hunspell-en-za, hunspell-es, hunspell-gd, hunspell-gl, hunspell-gu, hunspell-gug, hunspell-he, hunspell-hi, hunspell-hr, hunspell-hu, hunspell-id, hunspell-is, hunspell-it, hunspell-kmr, hunspell-lo, hunspell-lt, hunspell-mn, hunspell-ne, hunspell-no, hunspell-oc, hunspell-pl, hunspell-pt-br, hunspell-pt-pt, hunspell-ro, hunspell-ru, hunspell-si, hunspell-sk, hunspell-sl, hunspell-sr, hunspell-sv, hunspell-sw, hunspell-te, hunspell-th, hunspell-tr, hunspell-uk, hunspell-vi, hunspell-en-au, hunspell-en-ca, hunspell-en-us, hunspell-uz
 Priority: 0
 Section: digitalsignage
 Filename: pool/main/p/pikiosk/pikiosk_1.0.0_all.deb
-Size: 2564504
-SHA256: 6d7f1487abb58e729f454a66db55a81019bfb4ed7b4ef8097cd9f483d95d8d65
-SHA1: b747337f2dcfa322ca01b3280f022e84b2a757a8
-MD5sum: de902bf404e38d7aae4cbbbdad9bdffc
+Size: 808596
+SHA256: c95938e50da0c40e988b7a0c2c0a7365d79e847dd1e931018e01ef425b875898
+SHA1: 20775133a14efd079ce6fe4589b6084a9193aaad
+MD5sum: d1b3c13972dc15131b257945fdc3b05c
 Description: piKiosk - Raspberry Pi Digital Signage
 
