@@ -8,9 +8,9 @@ Depends: python3, python3-pyside2.qtcore, python3-pyside2.qtqml, python3-pyside2
 Priority: 0
 Section: digitalsignage
 Filename: pool/main/p/pikiosk/pikiosk_1.0.0_all.deb
-Size: 808596
-SHA256: c95938e50da0c40e988b7a0c2c0a7365d79e847dd1e931018e01ef425b875898
-SHA1: 20775133a14efd079ce6fe4589b6084a9193aaad
-MD5sum: d1b3c13972dc15131b257945fdc3b05c
+Size: 808608
+SHA256: e756a0640afaaf0cea4df8a8310dd585a2c9c781b017fc507c7ab71649fe904d
+SHA1: 1ff0c3a262966cd3333f8610e9dbaef432ba2056
+MD5sum: ac7fb76a57f7e38c94b461aa00f824c4
 Description: piKiosk - Raspberry Pi Digital Signage
 
