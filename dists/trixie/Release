@@ -2,28 +2,28 @@ Origin: piKiosk Repository
 Label: piKiosk Repository Github
 Suite: stable
 Codename: trixie
-Date: Tue, 07 Oct 2025 10:12:06 UTC
+Date: Wed, 22 Oct 2025 09:06:19 UTC
 Architectures: arm64 amd64
 Components: main
 Description: piKiosk APT Repository
 MD5Sum:
- 57d70b160fdece46e767913e7df87de3 1907 main/binary-arm64/Packages
- 2d5dd431b185b95c4fb9ba55f5eff41d 743 main/binary-arm64/Packages.gz
+ 722160e874ff8b2af949a0174a60876f 1907 main/binary-arm64/Packages
+ 8c1b7bdb59d3ebb9d25c9d32598185f9 743 main/binary-arm64/Packages.gz
  35dfe3747927ef547c81ff203f3ed4f5 148 main/binary-arm64/Release
- 57d70b160fdece46e767913e7df87de3 1907 main/binary-amd64/Packages
- 2d5dd431b185b95c4fb9ba55f5eff41d 743 main/binary-amd64/Packages.gz
+ 722160e874ff8b2af949a0174a60876f 1907 main/binary-amd64/Packages
+ 8c1b7bdb59d3ebb9d25c9d32598185f9 743 main/binary-amd64/Packages.gz
  73860c478519aae51ad3868c069160c1 148 main/binary-amd64/Release
 SHA1:
- bd94e3a007feeb0d0cd416c7e6c96fc28c2c2140 1907 main/binary-arm64/Packages
- 2911b780b7c895ddce75386890a534fb426a8c22 743 main/binary-arm64/Packages.gz
+ f7fdc8c468690ac3a45d5973010ec74a414a15cd 1907 main/binary-arm64/Packages
+ 9cbd6b87c751d94da53bcdf4c909422f6be9daad 743 main/binary-arm64/Packages.gz
  8e50d135a1063dc871ff14f81207ae1376da304d 148 main/binary-arm64/Release
- bd94e3a007feeb0d0cd416c7e6c96fc28c2c2140 1907 main/binary-amd64/Packages
- 2911b780b7c895ddce75386890a534fb426a8c22 743 main/binary-amd64/Packages.gz
+ f7fdc8c468690ac3a45d5973010ec74a414a15cd 1907 main/binary-amd64/Packages
+ 9cbd6b87c751d94da53bcdf4c909422f6be9daad 743 main/binary-amd64/Packages.gz
  eb24193789c1e02b761f2c07ef8cfdd4bc749fe7 148 main/binary-amd64/Release
 SHA256:
- fd046db86acd3c409881f5643afa8594c2cbb64707102b3e1cc51953c724a23b 1907 main/binary-arm64/Packages
- 89fded8e084c69110f4fa1e74e8a9bc1f53e6a54be53bf3a572d10348c1fc857 743 main/binary-arm64/Packages.gz
+ 41b6caaf984fa1bf2120a95a4ce18518cae36abb9e6c396a926760cab09ccb03 1907 main/binary-arm64/Packages
+ a44ffd642b4f14347a1275b54fd485a4ec89e8e35fcfb6ee3345dabdd32cb64a 743 main/binary-arm64/Packages.gz
  8ea17e8af6f77d2d2d6bb273d7bcadf30cd883762ef73216d5c6e1b7c28bc8e5 148 main/binary-arm64/Release
- fd046db86acd3c409881f5643afa8594c2cbb64707102b3e1cc51953c724a23b 1907 main/binary-amd64/Packages
- 89fded8e084c69110f4fa1e74e8a9bc1f53e6a54be53bf3a572d10348c1fc857 743 main/binary-amd64/Packages.gz
+ 41b6caaf984fa1bf2120a95a4ce18518cae36abb9e6c396a926760cab09ccb03 1907 main/binary-amd64/Packages
+ a44ffd642b4f14347a1275b54fd485a4ec89e8e35fcfb6ee3345dabdd32cb64a 743 main/binary-amd64/Packages.gz
  040a290f4decabe8d831d7b49e0bb58abe20ebc690a431e589be484b7465e7fb 148 main/binary-amd64/Release
